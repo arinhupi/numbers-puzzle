@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>GameReadyInfo.qml</file>
+        <file>GameStartView.qml</file>
+        <file>GameLogic.qml</file>
+        <file>NumberTable.qml</file>
+	<file>images/numbers.png</file>
+    </qresource>
+</RCC>
